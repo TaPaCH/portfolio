@@ -46,6 +46,7 @@
 
 ## Мои проекты
 <div align="center"> 
+https://weekly-task-planner-lcb8.bolt.host/
 
 
 <br/>  
